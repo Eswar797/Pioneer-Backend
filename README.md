@@ -25,7 +25,7 @@ This repository contains the backend code for the Pioneer Labs Backend Assessmen
 4. Start the server:
 
     ```bash
-    npm start
+    node index.js
     ```
 
 ## Functionality
