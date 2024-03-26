@@ -7,7 +7,7 @@ This repository contains the backend code for the Pioneer Labs Backend Assessmen
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Eswar797/Pioneer-Backend/tree/main.git
     ```
 
 2. Navigate to the project directory:
