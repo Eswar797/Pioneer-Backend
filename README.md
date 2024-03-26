@@ -118,6 +118,8 @@ Replace `<JWT_TOKEN>` with the JWT token obtained after successful login.
 
 ### Test for auth/login
 ![Screenshot 2024-03-26 235311](https://github.com/Eswar797/Pioneer-Backend/assets/88208816/b19e9fdb-5f71-4f7d-9fc5-0e0672546451)
+
+### Swagger Docs
 ![Screenshot 2024-03-26 235340](https://github.com/Eswar797/Pioneer-Backend/assets/88208816/172489d4-b8fb-409b-ae5b-6b4f4a940e76)
 ![Screenshot 2024-03-26 235408](https://github.com/Eswar797/Pioneer-Backend/assets/88208816/1b611920-a304-45e7-b37e-1415e4b0cf42)
 ![Screenshot 2024-03-26 235428](https://github.com/Eswar797/Pioneer-Backend/assets/88208816/29e5dc4d-fefa-44c7-92cd-79c4fa10f3cd)
