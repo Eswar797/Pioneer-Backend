@@ -111,8 +111,12 @@ Replace `<JWT_TOKEN>` with the JWT token obtained after successful login.
 
 ## Outputs
 
-These are the output screenshots
+### These are the output screenshots
+
+### Test for auth/register 
 ![Screenshot 2024-03-26 235228](https://github.com/Eswar797/Pioneer-Backend/assets/88208816/7d60e31b-0d4e-40c3-97c8-190caf0f156c)
+
+### Test for auth/login
 ![Screenshot 2024-03-26 235311](https://github.com/Eswar797/Pioneer-Backend/assets/88208816/b19e9fdb-5f71-4f7d-9fc5-0e0672546451)
 ![Screenshot 2024-03-26 235340](https://github.com/Eswar797/Pioneer-Backend/assets/88208816/172489d4-b8fb-409b-ae5b-6b4f4a940e76)
 ![Screenshot 2024-03-26 235408](https://github.com/Eswar797/Pioneer-Backend/assets/88208816/1b611920-a304-45e7-b37e-1415e4b0cf42)
